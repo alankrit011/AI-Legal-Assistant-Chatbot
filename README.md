@@ -2,7 +2,6 @@
 <h3 align="center">Know Your Rights! Better Citizen, Better Nation!</h1>
 
 <p align="center">
-<img src="AILA.jpg" width="700"/>
 </p>
 
 ## About The Project
